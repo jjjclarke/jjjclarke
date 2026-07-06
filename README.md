@@ -10,9 +10,11 @@
 | Project | Description | Repo |
 | --- | --- | --- |
 | RPiMonitor | A Flask-based web app that can be used to monitor running statistics locally on a Raspberry Pi. Displays most greedy processes, processor temperature, and stats like available memory and storage. | [Available](https://github.com/jjjclarke/RPiMonitor) |
-| Luna | A programming language interpreter with a syntax inspired by C and JavaScript. Supports language functionality like variables, control flow, block scope, functions, etc. | [Available](https://github.com/jjjclarke/Luna) |
+| Heroscope | Java application that interoperates with the Marvel Comics API to fetch and display formatted information about a chosen character. | Unavailable |
 | bookshelf | A Spring Boot web app with database integration that displays any books that the user has added to it. Uses an API to fetch book covers from Goodreads. Note that changes to the database are not persistent due to JPA. | [Available](https://github.com/jjjclarke/bookshelf) |
-| Heroscope | A Java application that uses the (now defunct) Marvel Comics API to fetch and display information about Marvel Comics characters that the user has requested. | Unavailable |
+| Luna | A programming language interpreter with a syntax inspired by C and JavaScript. Supports language functionality like variables, control flow, block scope, functions, etc. | [Available](https://github.com/jjjclarke/Luna) |
+| Authenticator | Android app that generates 2FA (TOTP) authentication codes. Not recommended for production use. | [Available](https://github.com/jjjclarke/Authenticator) |
+| nitter-redirector | Firefox extension that automatically redirects Twitter/X links to a chosen Nitter instance. | [Available](https://github.com/jjjclarke/nitter-redirector) |
 
 
 <!--
