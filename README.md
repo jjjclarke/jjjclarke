@@ -1,21 +1,10 @@
-<div align="center">
-  <h1>James Clarke</h1>
-</div>
+### Hello! 👋
 
-<p align="center">
-  <img src="https://github-stats-extended.vercel.app/api/top-langs/?username=jjjclarke" alt="Used programming languages">
-</p>
+My name is James. I'm a software engineering graduate from Ireland.
 
-## Projects
-| Project | Description | Repo |
-| --- | --- | --- |
-| RPiMonitor | A Flask-based web app that can be used to monitor running statistics locally on a Raspberry Pi. Displays most greedy processes, processor temperature, and stats like available memory and storage. | [Available](https://github.com/jjjclarke/RPiMonitor) |
-| Heroscope | Java application that interoperates with the Marvel Comics API to fetch and display formatted information about a chosen character. | Unavailable |
-| bookshelf | A Spring Boot web app with database integration that displays any books that the user has added to it. Uses an API to fetch book covers from Goodreads. Note that changes to the database are not persistent due to JPA. | [Available](https://github.com/jjjclarke/bookshelf) |
-| Luna | A programming language interpreter with a syntax inspired by C and JavaScript. Supports language functionality like variables, control flow, block scope, functions, etc. | [Available](https://github.com/jjjclarke/Luna) |
-| Authenticator | Android app that generates 2FA (TOTP) authentication codes. Not recommended for production use. | [Available](https://github.com/jjjclarke/Authenticator) |
-| nitter-redirector | Firefox extension that automatically redirects Twitter/X links to a chosen Nitter instance. | [Available](https://github.com/jjjclarke/nitter-redirector) |
+My strongest programming language is Java, and it is my primary language for most of my projects. I'm currently learning C for the purposes of microcontroller and embedded systems development.
 
+I studied computer engineering at the Technological University of the Shannon for three years, before doing an add-on Level 8 course in software engineering for an additional year. Most of my programming projects pre-April 2026 were created for and during my time at TUS.
 
 <!--
 **jjjclarke/jjjclarke** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
