@@ -1,10 +1,13 @@
-### Hello! 👋
+## About Me
 
-My name is James. I'm a software engineering graduate from Ireland.
+I'm a programmer from Ireland. I studied computer engineering at the Technological University of the Shannon from 2022 to 2025.
 
-My strongest programming language is Java, and it is my primary language for most of my projects. I'm currently learning C for the purposes of microcontroller and embedded systems development.
+[![GitHub Stats](https://github-stats-extended.vercel.app/api/top-langs?username=jjjclarke&layout=compact&langs_count=4&theme=gruvbox)](https://github-stats-extended.vercel.app/api/top-langs?username=jjjclarke&layout=compact&langs_count=4&theme=gruvbox)
 
-I studied computer engineering at the Technological University of the Shannon for three years, before doing an add-on Level 8 course in software engineering for an additional year. Most of my programming projects pre-April 2026 were created for and during my time at TUS.
+### Links
+
+ - Codeberg: https://codeberg.org/jjjclarke
+ - LinkedIn: https://www.linkedin.com/in/jjjclarke/
 
 <!--
 **jjjclarke/jjjclarke** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
